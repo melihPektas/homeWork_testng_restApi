@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="1969" started-at="2020-11-19T11:55:01Z" finished-at="2020-11-19T11:55:03Z">
+    <groups>
+    </groups>
+    <test name="homeWork" duration-ms="1969" started-at="2020-11-19T11:55:01Z" finished-at="2020-11-19T11:55:03Z">
+      <class name="test.ApiPageTest">
+        <test-method status="PASS" signature="test()[pri:0, instance:test.ApiPageTest@35047d03]" name="test" duration-ms="1840" started-at="2020-11-19T11:55:01Z" finished-at="2020-11-19T11:55:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- test.ApiPageTest -->
+    </test> <!-- homeWork -->
+  </suite> <!-- Default Suite -->
+</testng-results>

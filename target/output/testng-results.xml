@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="36353" started-at="2020-11-20T09:37:15Z" finished-at="2020-11-20T09:37:52Z">
+    <groups>
+    </groups>
+    <test name="Page Tests" duration-ms="36353" started-at="2020-11-20T09:37:15Z" finished-at="2020-11-20T09:37:52Z">
+      <class name="test.ApiPageTest">
+        <test-method status="PASS" signature="test()[pri:0, instance:test.ApiPageTest@2f3c6ac4]" name="test" duration-ms="540" started-at="2020-11-20T09:37:51Z" finished-at="2020-11-20T09:37:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- test.ApiPageTest -->
+      <class name="test.HomePageTest">
+        <test-method status="PASS" signature="before()[pri:0, instance:test.HomePageTest@4a9419d7]" name="before" is-config="true" duration-ms="357" started-at="2020-11-20T09:37:15Z" finished-at="2020-11-20T09:37:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="setUp(java.lang.reflect.Method)[pri:0, instance:test.HomePageTest@4a9419d7]" name="setUp" is-config="true" duration-ms="7117" started-at="2020-11-20T09:37:15Z" finished-at="2020-11-20T09:37:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.HomePageTest.HomePageTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="HomePageTest()[pri:0, instance:test.HomePageTest@4a9419d7]" name="HomePageTest" duration-ms="27933" started-at="2020-11-20T09:37:22Z" finished-at="2020-11-20T09:37:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.HomePageTest@4a9419d7]" name="tearDown" is-config="true" duration-ms="582" started-at="2020-11-20T09:37:50Z" finished-at="2020-11-20T09:37:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.HomePageTest -->
+    </test> <!-- Page Tests -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

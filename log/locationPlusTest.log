@@ -1,0 +1,562 @@
+2020-11-19 14:55:02 INFO  BaseHttpClientUtil:101 - Test userAll
+2020-11-19 14:55:02 INFO  BaseHttpClientUtil:36 - 1-----id-------->User 1------userName------>Password1------password------>testUserAll
+2020-11-19 14:55:02 INFO  BaseHttpClientUtil:36 - 2-----id-------->User 2------userName------>Password2------password------>testUserAll
+2020-11-19 14:55:02 INFO  BaseHttpClientUtil:36 - 3-----id-------->User 3------userName------>Password3------password------>testUserAll
+2020-11-19 14:55:02 INFO  BaseHttpClientUtil:36 - 4-----id-------->User 4------userName------>Password4------password------>testUserAll
+2020-11-19 14:55:02 INFO  BaseHttpClientUtil:36 - 5-----id-------->User 5------userName------>Password5------password------>testUserAll
+2020-11-19 14:55:02 INFO  BaseHttpClientUtil:36 - 6-----id-------->User 6------userName------>Password6------password------>testUserAll
+2020-11-19 14:55:02 INFO  BaseHttpClientUtil:36 - 7-----id-------->User 7------userName------>Password7------password------>testUserAll
+2020-11-19 14:55:02 INFO  BaseHttpClientUtil:36 - 8-----id-------->User 8------userName------>Password8------password------>testUserAll
+2020-11-19 14:55:02 INFO  BaseHttpClientUtil:36 - 9-----id-------->User 9------userName------>Password9------password------>testUserAll
+2020-11-19 14:55:02 INFO  BaseHttpClientUtil:36 - 10-----id-------->User 10------userName------>Password10------password------>testUserAll
+2020-11-19 14:55:03 INFO  BaseHttpClientUtil:101 - Test userPost
+2020-11-19 14:55:03 INFO  BaseHttpClientUtil:89 - 66------id------->melo-------userName------->melo------password------>responsePost
+2020-11-19 14:55:03 INFO  BaseHttpClientUtil:101 - Test userGet
+2020-11-19 14:55:03 INFO  BaseHttpClientUtil:54 - 9-------id------->User 9-------userName------->Password9------password------>testUserGet
+2020-11-19 14:55:03 INFO  BaseHttpClientUtil:101 - Test userGet
+2020-11-19 14:55:03 INFO  BaseHttpClientUtil:71 - ------title-------->Not Found-------status------->404     testUserGet
+2020-11-19 15:23:28 INFO  BasePageUtil:112 - is element present NAV_SEARCH_FIELD
+2020-11-19 15:23:35 INFO  BasePageUtil:168 - [[ChromeDriver: chrome on WINDOWS (6e52ad8f0848b1c57e99e076043b7a90)] -> css selector: input#twotabsearchtextbox]key
+2020-11-19 15:26:48 INFO  BasePageUtil:112 - is element present NAV_SEARCH_FIELD
+2020-11-19 15:27:20 INFO  BasePageUtil:112 - is element present NAV_SEARCH_FIELD
+2020-11-19 15:27:36 INFO  BasePageUtil:167 - apple  send key
+2020-11-19 15:27:45 INFO  BasePageUtil:582 - 0
+2020-11-19 15:27:52 INFO  BasePageUtil:582 - 1
+2020-11-19 15:27:58 INFO  BasePageUtil:582 - 2
+2020-11-19 15:28:04 INFO  BasePageUtil:582 - 3
+2020-11-19 15:28:10 INFO  BasePageUtil:582 - 4
+2020-11-19 15:28:16 INFO  BasePageUtil:582 - 5
+2020-11-19 15:28:22 INFO  BasePageUtil:582 - 6
+2020-11-19 15:28:29 INFO  BasePageUtil:582 - 7
+2020-11-19 15:28:35 INFO  BasePageUtil:582 - 8
+2020-11-19 15:28:41 INFO  BasePageUtil:582 - 9
+2020-11-19 15:28:47 INFO  BasePageUtil:582 - 10
+2020-11-19 15:28:53 INFO  BasePageUtil:582 - 11
+2020-11-19 15:29:26 INFO  BasePageUtil:112 - is element present NAV_SEARCH_FIELD
+2020-11-19 15:29:43 INFO  BasePageUtil:167 - apple  send key
+2020-11-19 15:29:49 INFO  BasePageUtil:112 - is element present NAV_SEARCH_SUBMIT
+2020-11-19 15:30:06 INFO  BasePageUtil:341 - NAV_SEARCH_SUBMIT  is clicked
+2020-11-19 15:30:09 INFO  BaseTest:83 - 00:01:00.525
+2020-11-19 15:42:59 INFO  BasePageUtil:112 - is element present NAV_SEARCH_FIELD
+2020-11-19 15:43:15 INFO  BasePageUtil:167 - apple  send key
+2020-11-19 15:43:21 INFO  BasePageUtil:112 - is element present NAV_SEARCH_SUBMIT
+2020-11-19 15:43:38 INFO  BasePageUtil:341 - NAV_SEARCH_SUBMIT  is clicked
+2020-11-19 15:43:43 INFO  BaseTest:83 - 00:01:01.948
+2020-11-19 15:44:34 INFO  BasePageUtil:112 - is element present NAV_SEARCH_FIELD
+2020-11-19 15:44:50 INFO  BasePageUtil:167 - apple  send key
+2020-11-19 15:44:56 INFO  BasePageUtil:112 - is element present NAV_SEARCH_SUBMIT
+2020-11-19 15:45:13 INFO  BasePageUtil:341 - NAV_SEARCH_SUBMIT  is clicked
+2020-11-19 15:45:18 INFO  BaseTest:83 - 00:01:01.296
+2020-11-19 15:45:51 INFO  BasePageUtil:112 - is element present NAV_SEARCH_FIELD
+2020-11-19 15:46:07 INFO  BasePageUtil:167 - apple  send key
+2020-11-19 15:46:13 INFO  BasePageUtil:112 - is element present NAV_SEARCH_SUBMIT
+2020-11-19 15:46:30 INFO  BasePageUtil:341 - NAV_SEARCH_SUBMIT  is clicked
+2020-11-19 15:46:35 INFO  BaseTest:83 - 00:00:59.522
+2020-11-19 15:47:58 INFO  BasePageUtil:112 - is element present NAV_SEARCH_FIELD
+2020-11-19 15:48:15 INFO  BasePageUtil:167 - apple  send key
+2020-11-19 15:48:21 INFO  BasePageUtil:112 - is element present NAV_SEARCH_SUBMIT
+2020-11-19 15:48:38 INFO  BasePageUtil:341 - NAV_SEARCH_SUBMIT  is clicked
+2020-11-19 15:48:43 INFO  BaseTest:83 - 00:01:00.953
+2020-11-19 15:50:26 INFO  BasePageUtil:112 - is element present NAV_SEARCH_FIELD
+2020-11-19 15:50:42 INFO  BasePageUtil:167 - apple  send key
+2020-11-19 15:50:48 INFO  BasePageUtil:112 - is element present NAV_SEARCH_SUBMIT
+2020-11-19 15:51:05 INFO  BasePageUtil:341 - NAV_SEARCH_SUBMIT  is clicked
+2020-11-19 15:51:10 INFO  BaseTest:83 - 00:01:00.652
+2020-11-19 16:38:46 INFO  BasePageUtil:112 - is element present NAV_SEARCH_FIELD
+2020-11-19 16:39:02 INFO  BasePageUtil:167 - apple  send key
+2020-11-19 16:39:08 INFO  BasePageUtil:112 - is element present NAV_SEARCH_SUBMIT
+2020-11-19 16:39:25 INFO  BasePageUtil:341 - NAV_SEARCH_SUBMIT  is clicked
+2020-11-19 16:39:30 INFO  BaseTest:83 - 00:01:02.798
+2020-11-19 16:42:55 INFO  BasePageUtil:112 - is element present NAV_SEARCH_FIELD
+2020-11-19 16:43:11 INFO  BasePageUtil:167 - apple  send key
+2020-11-19 16:43:18 INFO  BasePageUtil:112 - is element present NAV_SEARCH_SUBMIT
+2020-11-19 16:43:35 INFO  BasePageUtil:341 - NAV_SEARCH_SUBMIT  is clicked
+2020-11-19 16:43:39 INFO  BaseTest:83 - 00:01:00.402
+2020-11-19 16:48:58 INFO  BasePageUtil:112 - is element present NAV_SEARCH_FIELD
+2020-11-19 16:49:15 INFO  BasePageUtil:167 - apple  send key
+2020-11-19 16:49:21 INFO  BasePageUtil:112 - is element present NAV_SEARCH_SUBMIT
+2020-11-19 16:49:38 INFO  BasePageUtil:341 - NAV_SEARCH_SUBMIT  is clicked
+2020-11-19 16:49:42 INFO  BaseTest:83 - 00:00:59.260
+2020-11-19 16:50:41 INFO  BasePageUtil:112 - is element present NAV_SEARCH_FIELD
+2020-11-19 16:50:57 INFO  BasePageUtil:167 - apple  send key
+2020-11-19 16:51:04 INFO  BasePageUtil:112 - is element present NAV_SEARCH_SUBMIT
+2020-11-19 16:51:21 INFO  BasePageUtil:341 - NAV_SEARCH_SUBMIT  is clicked
+2020-11-19 16:51:25 INFO  BaseTest:83 - 00:00:59.886
+2020-11-19 16:52:41 INFO  BasePageUtil:112 - is element present NAV_SEARCH_FIELD
+2020-11-19 16:52:57 INFO  BasePageUtil:167 - apple  send key
+2020-11-19 16:53:03 INFO  BasePageUtil:112 - is element present NAV_SEARCH_SUBMIT
+2020-11-19 16:53:20 INFO  BasePageUtil:341 - NAV_SEARCH_SUBMIT  is clicked
+2020-11-19 16:53:24 INFO  BaseTest:83 - 00:00:59.610
+2020-11-19 16:54:15 INFO  BasePageUtil:112 - is element present NAV_SEARCH_FIELD
+2020-11-19 16:54:32 INFO  BasePageUtil:167 - apple  send key
+2020-11-19 16:54:38 INFO  BasePageUtil:112 - is element present NAV_SEARCH_SUBMIT
+2020-11-19 16:54:55 INFO  BasePageUtil:341 - NAV_SEARCH_SUBMIT  is clicked
+2020-11-19 16:54:59 INFO  BaseTest:83 - 00:00:59.073
+2020-11-19 16:55:42 INFO  BasePageUtil:112 - is element present NAV_SEARCH_FIELD
+2020-11-19 16:55:58 INFO  BasePageUtil:167 - apple  send key
+2020-11-19 16:56:04 INFO  BasePageUtil:112 - is element present NAV_SEARCH_SUBMIT
+2020-11-19 16:56:21 INFO  BasePageUtil:341 - NAV_SEARCH_SUBMIT  is clicked
+2020-11-19 16:56:25 INFO  BaseTest:83 - 00:00:58.660
+2020-11-19 16:57:10 INFO  BasePageUtil:112 - is element present NAV_SEARCH_FIELD
+2020-11-19 16:57:26 INFO  BasePageUtil:167 - apple  send key
+2020-11-19 16:57:33 INFO  BasePageUtil:112 - is element present NAV_SEARCH_SUBMIT
+2020-11-19 16:57:50 INFO  BasePageUtil:341 - NAV_SEARCH_SUBMIT  is clicked
+2020-11-19 16:57:54 INFO  BaseTest:83 - 00:01:00.206
+2020-11-19 17:02:11 INFO  BasePageUtil:112 - is element present NAV_SEARCH_FIELD
+2020-11-19 17:02:27 INFO  BasePageUtil:167 - apple  send key
+2020-11-19 17:02:34 INFO  BasePageUtil:112 - is element present NAV_SEARCH_SUBMIT
+2020-11-19 17:02:50 INFO  BasePageUtil:341 - NAV_SEARCH_SUBMIT  is clicked
+2020-11-19 17:02:55 INFO  BaseTest:83 - 00:01:00.031
+2020-11-19 17:04:00 INFO  BasePageUtil:112 - is element present NAV_SEARCH_FIELD
+2020-11-19 17:04:16 INFO  BasePageUtil:167 - apple  send key
+2020-11-19 17:04:22 INFO  BasePageUtil:112 - is element present NAV_SEARCH_SUBMIT
+2020-11-19 17:04:39 INFO  BasePageUtil:341 - NAV_SEARCH_SUBMIT  is clicked
+2020-11-19 17:04:44 INFO  BaseTest:83 - 00:00:59.863
+2020-11-19 17:09:48 INFO  BasePageUtil:112 - is element present NAV_SEARCH_FIELD
+2020-11-19 17:10:04 INFO  BasePageUtil:167 - apple  send key
+2020-11-19 17:10:10 INFO  BasePageUtil:112 - is element present NAV_SEARCH_SUBMIT
+2020-11-19 17:10:27 INFO  BasePageUtil:341 - NAV_SEARCH_SUBMIT  is clicked
+2020-11-19 17:10:31 INFO  BaseTest:83 - 00:00:58.509
+2020-11-19 17:12:36 INFO  BasePageUtil:112 - is element present NAV_SEARCH_FIELD
+2020-11-19 17:12:52 INFO  BasePageUtil:167 - Apple  send key
+2020-11-19 17:12:58 INFO  BasePageUtil:112 - is element present NAV_SEARCH_SUBMIT
+2020-11-19 17:13:15 INFO  BasePageUtil:341 - NAV_SEARCH_SUBMIT  is clicked
+2020-11-19 17:13:19 INFO  BaseTest:83 - 00:00:59.208
+2020-11-19 17:15:08 INFO  BasePageUtil:112 - is element present NAV_SEARCH_FIELD
+2020-11-19 17:15:24 INFO  BasePageUtil:167 - iphone 11  send key
+2020-11-19 17:15:30 INFO  BasePageUtil:112 - is element present NAV_SEARCH_SUBMIT
+2020-11-19 17:15:48 INFO  BasePageUtil:341 - NAV_SEARCH_SUBMIT  is clicked
+2020-11-19 17:15:52 INFO  BaseTest:83 - 00:00:59.651
+2020-11-19 17:18:21 INFO  BasePageUtil:112 - is element present NAV_SEARCH_FIELD
+2020-11-19 17:18:37 INFO  BasePageUtil:167 - iphone 11  send key
+2020-11-19 17:18:43 INFO  BasePageUtil:112 - is element present NAV_SEARCH_SUBMIT
+2020-11-19 17:19:00 INFO  BasePageUtil:341 - NAV_SEARCH_SUBMIT  is clicked
+2020-11-19 17:19:04 INFO  BaseTest:83 - 00:00:59.086
+2020-11-19 17:25:39 INFO  BasePageUtil:112 - is element present NAV_SEARCH_FIELD
+2020-11-19 17:25:55 INFO  BasePageUtil:167 - iphone 11  send key
+2020-11-19 17:26:01 INFO  BasePageUtil:112 - is element present NAV_SEARCH_SUBMIT
+2020-11-19 17:26:18 INFO  BasePageUtil:341 - NAV_SEARCH_SUBMIT  is clicked
+2020-11-19 17:26:22 INFO  BaseTest:83 - 00:00:57.689
+2020-11-19 17:27:11 INFO  BasePageUtil:112 - is element present NAV_SEARCH_FIELD
+2020-11-19 17:27:27 INFO  BasePageUtil:167 - iphone 11  send key
+2020-11-19 17:27:33 INFO  BasePageUtil:112 - is element present NAV_SEARCH_SUBMIT
+2020-11-19 17:27:50 INFO  BasePageUtil:341 - NAV_SEARCH_SUBMIT  is clicked
+2020-11-19 17:27:54 INFO  BaseTest:83 - 00:00:59.164
+2020-11-19 17:28:38 INFO  BasePageUtil:112 - is element present NAV_SEARCH_FIELD
+2020-11-19 17:28:54 INFO  BasePageUtil:167 - iphone 11  send key
+2020-11-19 17:29:00 INFO  BasePageUtil:112 - is element present NAV_SEARCH_SUBMIT
+2020-11-19 17:29:18 INFO  BasePageUtil:341 - NAV_SEARCH_SUBMIT  is clicked
+2020-11-19 17:29:21 INFO  BaseTest:83 - 00:00:59.656
+2020-11-19 17:30:06 INFO  BasePageUtil:112 - is element present NAV_SEARCH_FIELD
+2020-11-19 17:30:23 INFO  BasePageUtil:167 - iphone 11  send key
+2020-11-19 17:30:29 INFO  BasePageUtil:112 - is element present NAV_SEARCH_SUBMIT
+2020-11-19 17:30:46 INFO  BasePageUtil:341 - NAV_SEARCH_SUBMIT  is clicked
+2020-11-19 17:32:52 INFO  BaseTest:83 - 00:03:02.821
+2020-11-19 17:39:39 INFO  BasePageUtil:112 - is element present NAV_SEARCH_FIELD
+2020-11-19 17:39:56 INFO  BasePageUtil:167 - iphone 11  send key
+2020-11-19 17:40:02 INFO  BasePageUtil:112 - is element present NAV_SEARCH_SUBMIT
+2020-11-19 17:40:19 INFO  BasePageUtil:341 - NAV_SEARCH_SUBMIT  is clicked
+2020-11-19 17:41:13 INFO  BaseTest:83 - 00:01:48.996
+2020-11-19 17:46:21 INFO  BasePageUtil:112 - is element present NAV_SEARCH_FIELD
+2020-11-19 17:46:37 INFO  BasePageUtil:167 - iphone 11  send key
+2020-11-19 17:46:43 INFO  BasePageUtil:112 - is element present NAV_SEARCH_SUBMIT
+2020-11-19 17:47:00 INFO  BasePageUtil:341 - NAV_SEARCH_SUBMIT  is clicked
+2020-11-19 17:47:51 INFO  BasePageUtil:446 - 0
+2020-11-19 17:51:02 INFO  BasePageUtil:110 - is element present NAV_SEARCH_FIELD
+2020-11-19 17:51:18 INFO  BasePageUtil:162 - iphone 11  send key
+2020-11-19 17:51:24 INFO  BasePageUtil:110 - is element present NAV_SEARCH_SUBMIT
+2020-11-19 17:51:41 INFO  BasePageUtil:336 - NAV_SEARCH_SUBMIT  is clicked
+2020-11-19 17:51:56 INFO  BasePageUtil:446 - 0
+2020-11-19 17:51:57 INFO  BaseTest:83 - 00:01:11.356
+2020-11-19 17:53:00 INFO  BasePageUtil:110 - is element present NAV_SEARCH_FIELD
+2020-11-19 17:53:16 INFO  BasePageUtil:162 - iphone 11  send key
+2020-11-19 17:53:22 INFO  BasePageUtil:110 - is element present NAV_SEARCH_SUBMIT
+2020-11-19 17:53:39 INFO  BasePageUtil:336 - NAV_SEARCH_SUBMIT  is clicked
+2020-11-19 17:54:21 INFO  BaseTest:83 - 00:01:37.688
+2020-11-19 17:54:57 INFO  BasePageUtil:110 - is element present NAV_SEARCH_FIELD
+2020-11-19 17:55:13 INFO  BasePageUtil:162 - iphone 11  send key
+2020-11-19 17:55:19 INFO  BasePageUtil:110 - is element present NAV_SEARCH_SUBMIT
+2020-11-19 17:55:36 INFO  BasePageUtil:336 - NAV_SEARCH_SUBMIT  is clicked
+2020-11-19 17:56:36 INFO  BasePageUtil:446 - 53
+2020-11-19 17:56:42 INFO  BaseTest:83 - 00:01:59.743
+2020-11-19 17:57:08 INFO  BasePageUtil:110 - is element present NAV_SEARCH_FIELD
+2020-11-19 17:57:24 INFO  BasePageUtil:162 - iphone 11  send key
+2020-11-19 17:57:30 INFO  BasePageUtil:110 - is element present NAV_SEARCH_SUBMIT
+2020-11-19 17:57:47 INFO  BasePageUtil:336 - NAV_SEARCH_SUBMIT  is clicked
+2020-11-19 17:57:51 INFO  BasePageUtil:445 - 53
+2020-11-19 17:57:52 INFO  BaseTest:83 - 00:00:59.467
+2020-11-19 18:03:29 INFO  BasePageUtil:110 - is element present NAV_SEARCH_FIELD
+2020-11-19 18:03:46 INFO  BasePageUtil:162 - iphone 11  send key
+2020-11-19 18:03:52 INFO  BasePageUtil:110 - is element present NAV_SEARCH_SUBMIT
+2020-11-19 18:04:09 INFO  BasePageUtil:336 - NAV_SEARCH_SUBMIT  is clicked
+2020-11-19 18:04:13 INFO  BasePageUtil:445 - 53
+2020-11-19 18:04:13 INFO  BaseTest:83 - 00:00:59.411
+2020-11-20 10:23:45 INFO  BasePageUtil:110 - is element present NAV_SEARCH_FIELD
+2020-11-20 10:24:02 INFO  BasePageUtil:162 - iphone 11  send key
+2020-11-20 10:24:08 INFO  BasePageUtil:110 - is element present NAV_SEARCH_SUBMIT
+2020-11-20 10:24:25 INFO  BasePageUtil:336 - NAV_SEARCH_SUBMIT  is clicked
+2020-11-20 10:24:29 INFO  BasePageUtil:444 - 53
+2020-11-20 10:24:30 INFO  BaseTest:83 - 00:01:00.937
+2020-11-20 10:31:57 INFO  BasePageUtil:110 - is element present NAV_SEARCH_FIELD
+2020-11-20 10:32:13 INFO  BasePageUtil:162 - iphone 11  send key
+2020-11-20 10:32:19 INFO  BasePageUtil:110 - is element present NAV_SEARCH_SUBMIT
+2020-11-20 10:32:36 INFO  BasePageUtil:336 - NAV_SEARCH_SUBMIT  is clicked
+2020-11-20 10:51:11 INFO  BasePageUtil:112 - is element present NAV_SEARCH_FIELD
+2020-11-20 10:51:27 INFO  BasePageUtil:164 - iphone 11  send key
+2020-11-20 10:51:33 INFO  BasePageUtil:112 - is element present NAV_SEARCH_SUBMIT
+2020-11-20 10:51:50 INFO  BasePageUtil:338 - NAV_SEARCH_SUBMIT  is clicked
+2020-11-20 10:52:32 INFO  BaseTest:83 - 00:01:37.331
+2020-11-20 11:03:12 INFO  BasePageUtil:112 - is element present NAV_SEARCH_FIELD
+2020-11-20 11:03:28 INFO  BasePageUtil:164 - iphone 11  send key
+2020-11-20 11:03:34 INFO  BasePageUtil:112 - is element present NAV_SEARCH_SUBMIT
+2020-11-20 11:03:51 INFO  BasePageUtil:338 - NAV_SEARCH_SUBMIT  is clicked
+2020-11-20 11:04:36 INFO  BasePageUtil:451 - 48
+2020-11-20 11:04:37 INFO  BaseTest:83 - 00:01:40.818
+2020-11-20 11:07:00 INFO  BasePageUtil:112 - is element present NAV_SEARCH_FIELD
+2020-11-20 11:07:16 INFO  BasePageUtil:164 - iphone 11  send key
+2020-11-20 11:07:22 INFO  BasePageUtil:112 - is element present NAV_SEARCH_SUBMIT
+2020-11-20 11:07:39 INFO  BasePageUtil:338 - NAV_SEARCH_SUBMIT  is clicked
+2020-11-20 11:11:32 INFO  BasePageUtil:112 - is element present NAV_SEARCH_FIELD
+2020-11-20 11:11:48 INFO  BasePageUtil:164 - iphone 11  send key
+2020-11-20 11:11:54 INFO  BasePageUtil:112 - is element present NAV_SEARCH_SUBMIT
+2020-11-20 11:12:11 INFO  BasePageUtil:338 - NAV_SEARCH_SUBMIT  is clicked
+2020-11-20 11:16:46 INFO  BasePageUtil:447 - 48
+2020-11-20 11:16:46 INFO  BaseTest:83 - 00:05:30.445
+2020-11-20 11:17:49 INFO  BasePageUtil:112 - is element present NAV_SEARCH_FIELD
+2020-11-20 11:18:05 INFO  BasePageUtil:164 - xiaomi  send key
+2020-11-20 11:18:11 INFO  BasePageUtil:112 - is element present NAV_SEARCH_SUBMIT
+2020-11-20 11:18:28 INFO  BasePageUtil:338 - NAV_SEARCH_SUBMIT  is clicked
+2020-11-20 11:18:35 INFO  BasePageUtil:447 - 48
+2020-11-20 11:18:36 INFO  BaseTest:83 - 00:01:02.537
+2020-11-20 11:19:31 INFO  BasePageUtil:112 - is element present NAV_SEARCH_FIELD
+2020-11-20 11:19:48 INFO  BasePageUtil:164 - xiaomi  send key
+2020-11-20 11:19:54 INFO  BasePageUtil:112 - is element present NAV_SEARCH_SUBMIT
+2020-11-20 11:20:11 INFO  BasePageUtil:338 - NAV_SEARCH_SUBMIT  is clicked
+2020-11-20 11:20:18 INFO  BasePageUtil:447 - 48
+2020-11-20 11:20:19 INFO  BaseTest:83 - 00:01:03.433
+2020-11-20 11:21:27 INFO  BasePageUtil:112 - is element present NAV_SEARCH_FIELD
+2020-11-20 11:21:43 INFO  BasePageUtil:164 - xiaomi  send key
+2020-11-20 11:21:49 INFO  BasePageUtil:112 - is element present NAV_SEARCH_SUBMIT
+2020-11-20 11:22:06 INFO  BasePageUtil:338 - NAV_SEARCH_SUBMIT  is clicked
+2020-11-20 11:22:13 INFO  BasePageUtil:447 - 48   first page
+2020-11-20 11:22:14 INFO  BaseTest:83 - 00:01:02.941
+2020-11-20 11:28:11 INFO  BasePageUtil:112 - is element present NAV_SEARCH_FIELD
+2020-11-20 11:28:27 INFO  BasePageUtil:164 - xiaomi  send key
+2020-11-20 11:28:33 INFO  BasePageUtil:112 - is element present NAV_SEARCH_SUBMIT
+2020-11-20 11:28:50 INFO  BasePageUtil:338 - NAV_SEARCH_SUBMIT  is clicked
+2020-11-20 11:28:57 INFO  BasePageUtil:447 - 48   first page
+2020-11-20 11:28:58 INFO  BaseTest:83 - 00:01:03.301
+2020-11-20 11:38:40 INFO  BasePageUtil:112 - is element present NAV_SEARCH_FIELD
+2020-11-20 11:38:56 INFO  BasePageUtil:164 - xiaomi  send key
+2020-11-20 11:39:02 INFO  BasePageUtil:112 - is element present NAV_SEARCH_SUBMIT
+2020-11-20 11:39:19 INFO  BasePageUtil:338 - NAV_SEARCH_SUBMIT  is clicked
+2020-11-20 11:39:26 INFO  BasePageUtil:447 - 48   first page
+2020-11-20 11:39:27 INFO  BaseTest:83 - 00:01:04.694
+2020-11-20 12:11:48 INFO  BasePageUtil:69 - is element present NAV_SEARCH_FIELD
+2020-11-20 12:11:55 INFO  BasePageUtil:88 - xiaomi  send key
+2020-11-20 12:11:58 INFO  BasePageUtil:69 - is element present NAV_SEARCH_SUBMIT
+2020-11-20 12:12:03 INFO  BasePageUtil:103 - NAV_SEARCH_SUBMIT  is clicked
+2020-11-20 12:12:10 INFO  BasePageUtil:147 - 48   first page
+2020-11-20 12:12:10 INFO  BaseTest:83 - 00:00:36.241
+2020-11-20 12:12:53 INFO  BasePageUtil:69 - is element present NAV_SEARCH_FIELD
+2020-11-20 12:13:00 INFO  BasePageUtil:88 - xiaomi  send key
+2020-11-20 12:13:03 INFO  BasePageUtil:69 - is element present NAV_SEARCH_SUBMIT
+2020-11-20 12:13:07 INFO  BasePageUtil:103 - NAV_SEARCH_SUBMIT  is clicked
+2020-11-20 12:13:14 INFO  BasePageUtil:147 - 48   first page
+2020-11-20 12:13:15 INFO  BaseTest:83 - 00:00:34.359
+2020-11-20 12:14:08 INFO  BasePageUtil:64 - is element present NAV_SEARCH_FIELD
+2020-11-20 12:14:15 INFO  BasePageUtil:83 - notebook  send key
+2020-11-20 12:14:18 INFO  BasePageUtil:64 - is element present NAV_SEARCH_SUBMIT
+2020-11-20 12:14:22 INFO  BasePageUtil:98 - NAV_SEARCH_SUBMIT  is clicked
+2020-11-20 12:14:29 INFO  BasePageUtil:142 - 48   first page
+2020-11-20 12:14:30 INFO  BaseTest:83 - 00:00:34.455
+2020-11-20 12:20:43 INFO  BasePageUtil:64 - is element present NAV_SEARCH_FIELD
+2020-11-20 12:20:49 INFO  BasePageUtil:83 - notebook  send key
+2020-11-20 12:20:53 INFO  BasePageUtil:64 - is element present NAV_SEARCH_SUBMIT
+2020-11-20 12:20:57 INFO  BasePageUtil:98 - NAV_SEARCH_SUBMIT  is clicked
+2020-11-20 12:21:04 INFO  BasePageUtil:142 - 48   first page
+2020-11-20 12:21:05 INFO  BaseTest:83 - 00:00:34.481
+2020-11-20 12:22:53 INFO  BasePageUtil:64 - is element present NAV_SEARCH_FIELD
+2020-11-20 12:23:00 INFO  BasePageUtil:83 - notebook  send key
+2020-11-20 12:23:03 INFO  BasePageUtil:64 - is element present NAV_SEARCH_SUBMIT
+2020-11-20 12:23:07 INFO  BasePageUtil:98 - NAV_SEARCH_SUBMIT  is clicked
+2020-11-20 12:23:14 INFO  BasePageUtil:142 - 48   first page
+2020-11-20 12:23:15 INFO  BaseTest:83 - 00:00:34.791
+2020-11-20 12:26:42 INFO  BasePageUtil:64 - is element present NAV_SEARCH_FIELD
+2020-11-20 12:26:48 INFO  BasePageUtil:83 - notebook  send key
+2020-11-20 12:26:52 INFO  BasePageUtil:64 - is element present NAV_SEARCH_SUBMIT
+2020-11-20 12:26:56 INFO  BasePageUtil:98 - NAV_SEARCH_SUBMIT  is clicked
+2020-11-20 12:27:03 INFO  BasePageUtil:142 - 48   first page
+2020-11-20 12:27:03 INFO  BaseTest:83 - 00:00:34.642
+2020-11-20 12:27:04 INFO  BaseHttpClientUtil:101 - Test userAll
+2020-11-20 12:27:04 INFO  BaseHttpClientUtil:36 - 1-----id-------->User 1------userName------>Password1------password------>testUserAll
+2020-11-20 12:27:04 INFO  BaseHttpClientUtil:36 - 2-----id-------->User 2------userName------>Password2------password------>testUserAll
+2020-11-20 12:27:04 INFO  BaseHttpClientUtil:36 - 3-----id-------->User 3------userName------>Password3------password------>testUserAll
+2020-11-20 12:27:04 INFO  BaseHttpClientUtil:36 - 4-----id-------->User 4------userName------>Password4------password------>testUserAll
+2020-11-20 12:27:04 INFO  BaseHttpClientUtil:36 - 5-----id-------->User 5------userName------>Password5------password------>testUserAll
+2020-11-20 12:27:04 INFO  BaseHttpClientUtil:36 - 6-----id-------->User 6------userName------>Password6------password------>testUserAll
+2020-11-20 12:27:04 INFO  BaseHttpClientUtil:36 - 7-----id-------->User 7------userName------>Password7------password------>testUserAll
+2020-11-20 12:27:04 INFO  BaseHttpClientUtil:36 - 8-----id-------->User 8------userName------>Password8------password------>testUserAll
+2020-11-20 12:27:04 INFO  BaseHttpClientUtil:36 - 9-----id-------->User 9------userName------>Password9------password------>testUserAll
+2020-11-20 12:27:04 INFO  BaseHttpClientUtil:36 - 10-----id-------->User 10------userName------>Password10------password------>testUserAll
+2020-11-20 12:27:04 INFO  BaseHttpClientUtil:101 - Test userPost
+2020-11-20 12:27:04 INFO  BaseHttpClientUtil:89 - 33------id------->melo test -------userName------->melo Test ------password------>responsePost
+2020-11-20 12:27:04 INFO  BaseHttpClientUtil:101 - Test userGet
+2020-11-20 12:27:04 INFO  BaseHttpClientUtil:54 - 9-------id------->User 9-------userName------->Password9------password------>testUserGet
+2020-11-20 12:27:04 INFO  BaseHttpClientUtil:101 - Test user Get Error
+2020-11-20 12:27:04 INFO  BaseHttpClientUtil:71 - ------title-------->Not Found-------status------->404     testUserGet
+2020-11-20 12:27:54 INFO  BasePageUtil:64 - is element present NAV_SEARCH_FIELD
+2020-11-20 12:28:01 INFO  BasePageUtil:83 - Apple  send key
+2020-11-20 12:28:04 INFO  BasePageUtil:64 - is element present NAV_SEARCH_SUBMIT
+2020-11-20 12:28:09 INFO  BasePageUtil:98 - NAV_SEARCH_SUBMIT  is clicked
+2020-11-20 12:28:16 INFO  BasePageUtil:142 - 48   first page
+2020-11-20 12:28:16 INFO  BaseTest:83 - 00:00:36.066
+2020-11-20 12:28:17 INFO  BaseHttpClientUtil:101 - Test userAll
+2020-11-20 12:28:17 INFO  BaseHttpClientUtil:36 - 1-----id-------->User 1------userName------>Password1------password------>testUserAll
+2020-11-20 12:28:17 INFO  BaseHttpClientUtil:36 - 2-----id-------->User 2------userName------>Password2------password------>testUserAll
+2020-11-20 12:28:17 INFO  BaseHttpClientUtil:36 - 3-----id-------->User 3------userName------>Password3------password------>testUserAll
+2020-11-20 12:28:17 INFO  BaseHttpClientUtil:36 - 4-----id-------->User 4------userName------>Password4------password------>testUserAll
+2020-11-20 12:28:17 INFO  BaseHttpClientUtil:36 - 5-----id-------->User 5------userName------>Password5------password------>testUserAll
+2020-11-20 12:28:17 INFO  BaseHttpClientUtil:36 - 6-----id-------->User 6------userName------>Password6------password------>testUserAll
+2020-11-20 12:28:17 INFO  BaseHttpClientUtil:36 - 7-----id-------->User 7------userName------>Password7------password------>testUserAll
+2020-11-20 12:28:17 INFO  BaseHttpClientUtil:36 - 8-----id-------->User 8------userName------>Password8------password------>testUserAll
+2020-11-20 12:28:17 INFO  BaseHttpClientUtil:36 - 9-----id-------->User 9------userName------>Password9------password------>testUserAll
+2020-11-20 12:28:17 INFO  BaseHttpClientUtil:36 - 10-----id-------->User 10------userName------>Password10------password------>testUserAll
+2020-11-20 12:28:17 INFO  BaseHttpClientUtil:101 - Test userPost
+2020-11-20 12:28:17 INFO  BaseHttpClientUtil:89 - 35------id------->melo test -------userName------->melo Test ------password------>responsePost
+2020-11-20 12:28:17 INFO  BaseHttpClientUtil:101 - Test userGet
+2020-11-20 12:28:17 INFO  BaseHttpClientUtil:54 - 9-------id------->User 9-------userName------->Password9------password------>testUserGet
+2020-11-20 12:28:17 INFO  BaseHttpClientUtil:101 - Test user Get Error
+2020-11-20 12:28:17 INFO  BaseHttpClientUtil:71 - ------title-------->Not Found-------status------->404     testUserGet
+2020-11-20 12:30:05 INFO  BasePageUtil:64 - is element present NAV_SEARCH_FIELD
+2020-11-20 12:30:12 INFO  BasePageUtil:83 - Apple  send key
+2020-11-20 12:30:15 INFO  BasePageUtil:64 - is element present NAV_SEARCH_SUBMIT
+2020-11-20 12:30:20 INFO  BasePageUtil:98 - NAV_SEARCH_SUBMIT  is clicked
+2020-11-20 12:30:27 INFO  BasePageUtil:142 - 48   first page
+2020-11-20 12:30:27 INFO  BaseTest:83 - 00:00:35.714
+2020-11-20 12:30:28 INFO  BaseHttpClientUtil:101 - Test userAll
+2020-11-20 12:30:28 INFO  BaseHttpClientUtil:36 - 1-----id-------->User 1------userName------>Password1------password------>testUserAll
+2020-11-20 12:30:28 INFO  BaseHttpClientUtil:36 - 2-----id-------->User 2------userName------>Password2------password------>testUserAll
+2020-11-20 12:30:28 INFO  BaseHttpClientUtil:36 - 3-----id-------->User 3------userName------>Password3------password------>testUserAll
+2020-11-20 12:30:28 INFO  BaseHttpClientUtil:36 - 4-----id-------->User 4------userName------>Password4------password------>testUserAll
+2020-11-20 12:30:28 INFO  BaseHttpClientUtil:36 - 5-----id-------->User 5------userName------>Password5------password------>testUserAll
+2020-11-20 12:30:28 INFO  BaseHttpClientUtil:36 - 6-----id-------->User 6------userName------>Password6------password------>testUserAll
+2020-11-20 12:30:28 INFO  BaseHttpClientUtil:36 - 7-----id-------->User 7------userName------>Password7------password------>testUserAll
+2020-11-20 12:30:28 INFO  BaseHttpClientUtil:36 - 8-----id-------->User 8------userName------>Password8------password------>testUserAll
+2020-11-20 12:30:28 INFO  BaseHttpClientUtil:36 - 9-----id-------->User 9------userName------>Password9------password------>testUserAll
+2020-11-20 12:30:28 INFO  BaseHttpClientUtil:36 - 10-----id-------->User 10------userName------>Password10------password------>testUserAll
+2020-11-20 12:30:28 INFO  BaseHttpClientUtil:101 - Test userPost
+2020-11-20 12:30:28 INFO  BaseHttpClientUtil:89 - 9------id------->melo test -------userName------->melo Test ------password------>responsePost
+2020-11-20 12:30:28 INFO  BaseHttpClientUtil:101 - Test userGet
+2020-11-20 12:30:28 INFO  BaseHttpClientUtil:54 - 9-------id------->User 9-------userName------->Password9------password------>testUserGet
+2020-11-20 12:30:28 INFO  BaseHttpClientUtil:101 - Test user Get Error
+2020-11-20 12:30:28 INFO  BaseHttpClientUtil:71 - ------title-------->Not Found-------status------->404     testUserGet
+2020-11-20 12:31:09 INFO  BasePageUtil:64 - is element present NAV_SEARCH_FIELD
+2020-11-20 12:31:16 INFO  BasePageUtil:83 - notebook  send key
+2020-11-20 12:31:19 INFO  BasePageUtil:64 - is element present NAV_SEARCH_SUBMIT
+2020-11-20 12:31:23 INFO  BasePageUtil:98 - NAV_SEARCH_SUBMIT  is clicked
+2020-11-20 12:31:30 INFO  BasePageUtil:142 - 48   first page
+2020-11-20 12:31:31 INFO  BaseTest:83 - 00:00:34.863
+2020-11-20 12:31:31 INFO  BaseHttpClientUtil:101 - Test userAll
+2020-11-20 12:31:31 INFO  BaseHttpClientUtil:36 - 1-----id-------->User 1------userName------>Password1------password------>testUserAll
+2020-11-20 12:31:31 INFO  BaseHttpClientUtil:36 - 2-----id-------->User 2------userName------>Password2------password------>testUserAll
+2020-11-20 12:31:31 INFO  BaseHttpClientUtil:36 - 3-----id-------->User 3------userName------>Password3------password------>testUserAll
+2020-11-20 12:31:31 INFO  BaseHttpClientUtil:36 - 4-----id-------->User 4------userName------>Password4------password------>testUserAll
+2020-11-20 12:31:31 INFO  BaseHttpClientUtil:36 - 5-----id-------->User 5------userName------>Password5------password------>testUserAll
+2020-11-20 12:31:31 INFO  BaseHttpClientUtil:36 - 6-----id-------->User 6------userName------>Password6------password------>testUserAll
+2020-11-20 12:31:31 INFO  BaseHttpClientUtil:36 - 7-----id-------->User 7------userName------>Password7------password------>testUserAll
+2020-11-20 12:31:31 INFO  BaseHttpClientUtil:36 - 8-----id-------->User 8------userName------>Password8------password------>testUserAll
+2020-11-20 12:31:31 INFO  BaseHttpClientUtil:36 - 9-----id-------->User 9------userName------>Password9------password------>testUserAll
+2020-11-20 12:31:31 INFO  BaseHttpClientUtil:36 - 10-----id-------->User 10------userName------>Password10------password------>testUserAll
+2020-11-20 12:31:31 INFO  BaseHttpClientUtil:101 - Test userPost
+2020-11-20 12:31:31 INFO  BaseHttpClientUtil:89 - 62------id------->melo test -------userName------->melo Test ------password------>responsePost
+2020-11-20 12:31:31 INFO  BaseHttpClientUtil:101 - Test userGet
+2020-11-20 12:31:31 INFO  BaseHttpClientUtil:54 - 9-------id------->User 9-------userName------->Password9------password------>testUserGet
+2020-11-20 12:31:31 INFO  BaseHttpClientUtil:101 - Test user Get Error
+2020-11-20 12:31:31 INFO  BaseHttpClientUtil:71 - ------title-------->Not Found-------status------->404     testUserGet
+2020-11-20 12:33:40 INFO  BasePageUtil:64 - is element present NAV_SEARCH_FIELD
+2020-11-20 12:33:47 INFO  BasePageUtil:83 - notebook  send key
+2020-11-20 12:33:50 INFO  BasePageUtil:64 - is element present NAV_SEARCH_SUBMIT
+2020-11-20 12:33:54 INFO  BasePageUtil:98 - NAV_SEARCH_SUBMIT  is clicked
+2020-11-20 12:34:01 INFO  BasePageUtil:142 - 48   first page
+2020-11-20 12:34:02 INFO  BaseTest:83 - 00:00:35.024
+2020-11-20 12:34:02 INFO  BaseHttpClientUtil:101 - Test userAll
+2020-11-20 12:34:02 INFO  BaseHttpClientUtil:36 - 1-----id-------->User 1------userName------>Password1------password------>testUserAll
+2020-11-20 12:34:02 INFO  BaseHttpClientUtil:36 - 2-----id-------->User 2------userName------>Password2------password------>testUserAll
+2020-11-20 12:34:02 INFO  BaseHttpClientUtil:36 - 3-----id-------->User 3------userName------>Password3------password------>testUserAll
+2020-11-20 12:34:02 INFO  BaseHttpClientUtil:36 - 4-----id-------->User 4------userName------>Password4------password------>testUserAll
+2020-11-20 12:34:02 INFO  BaseHttpClientUtil:36 - 5-----id-------->User 5------userName------>Password5------password------>testUserAll
+2020-11-20 12:34:02 INFO  BaseHttpClientUtil:36 - 6-----id-------->User 6------userName------>Password6------password------>testUserAll
+2020-11-20 12:34:02 INFO  BaseHttpClientUtil:36 - 7-----id-------->User 7------userName------>Password7------password------>testUserAll
+2020-11-20 12:34:02 INFO  BaseHttpClientUtil:36 - 8-----id-------->User 8------userName------>Password8------password------>testUserAll
+2020-11-20 12:34:02 INFO  BaseHttpClientUtil:36 - 9-----id-------->User 9------userName------>Password9------password------>testUserAll
+2020-11-20 12:34:02 INFO  BaseHttpClientUtil:36 - 10-----id-------->User 10------userName------>Password10------password------>testUserAll
+2020-11-20 12:34:02 INFO  BaseHttpClientUtil:101 - Test userPost
+2020-11-20 12:34:02 INFO  BaseHttpClientUtil:89 - 11------id------->melo test -------userName------->melo Test ------password------>responsePost
+2020-11-20 12:34:02 INFO  BaseHttpClientUtil:101 - Test userGet
+2020-11-20 12:34:02 INFO  BaseHttpClientUtil:54 - 9-------id------->User 9-------userName------->Password9------password------>testUserGet
+2020-11-20 12:34:02 INFO  BaseHttpClientUtil:101 - Test user Get Error
+2020-11-20 12:34:02 INFO  BaseHttpClientUtil:71 - ------title-------->Not Found-------status------->404     testUserGet
+2020-11-20 12:35:23 INFO  BasePageUtil:64 - is element present NAV_SEARCH_FIELD
+2020-11-20 12:35:29 INFO  BasePageUtil:83 - notebook  send key
+2020-11-20 12:35:33 INFO  BasePageUtil:64 - is element present NAV_SEARCH_SUBMIT
+2020-11-20 12:35:37 INFO  BasePageUtil:98 - NAV_SEARCH_SUBMIT  is clicked
+2020-11-20 12:35:44 INFO  BasePageUtil:142 - 48   first page
+2020-11-20 12:35:45 INFO  BaseTest:83 - 00:00:35.206
+2020-11-20 12:35:45 INFO  BaseHttpClientUtil:101 - Test userAll
+2020-11-20 12:35:45 INFO  BaseHttpClientUtil:36 - 1-----id-------->User 1------userName------>Password1------password------>testUserAll
+2020-11-20 12:35:45 INFO  BaseHttpClientUtil:36 - 2-----id-------->User 2------userName------>Password2------password------>testUserAll
+2020-11-20 12:35:45 INFO  BaseHttpClientUtil:36 - 3-----id-------->User 3------userName------>Password3------password------>testUserAll
+2020-11-20 12:35:45 INFO  BaseHttpClientUtil:36 - 4-----id-------->User 4------userName------>Password4------password------>testUserAll
+2020-11-20 12:35:45 INFO  BaseHttpClientUtil:36 - 5-----id-------->User 5------userName------>Password5------password------>testUserAll
+2020-11-20 12:35:45 INFO  BaseHttpClientUtil:36 - 6-----id-------->User 6------userName------>Password6------password------>testUserAll
+2020-11-20 12:35:45 INFO  BaseHttpClientUtil:36 - 7-----id-------->User 7------userName------>Password7------password------>testUserAll
+2020-11-20 12:35:45 INFO  BaseHttpClientUtil:36 - 8-----id-------->User 8------userName------>Password8------password------>testUserAll
+2020-11-20 12:35:45 INFO  BaseHttpClientUtil:36 - 9-----id-------->User 9------userName------>Password9------password------>testUserAll
+2020-11-20 12:35:45 INFO  BaseHttpClientUtil:36 - 10-----id-------->User 10------userName------>Password10------password------>testUserAll
+2020-11-20 12:35:45 INFO  BaseHttpClientUtil:101 - Test userPost
+2020-11-20 12:35:45 INFO  BaseHttpClientUtil:89 - 54------id------->melo test -------userName------->melo Test ------password------>responsePost
+2020-11-20 12:35:45 INFO  BaseHttpClientUtil:101 - Test userGet
+2020-11-20 12:35:45 INFO  BaseHttpClientUtil:54 - 9-------id------->User 9-------userName------->Password9------password------>testUserGet
+2020-11-20 12:35:45 INFO  BaseHttpClientUtil:101 - Test user Get Error
+2020-11-20 12:35:45 INFO  BaseHttpClientUtil:71 - ------title-------->Not Found-------status------->404     testUserGet
+2020-11-20 12:36:23 INFO  BasePageUtil:64 - is element present NAV_SEARCH_FIELD
+2020-11-20 12:36:30 INFO  BasePageUtil:83 - notebook  send key
+2020-11-20 12:36:33 INFO  BasePageUtil:64 - is element present NAV_SEARCH_SUBMIT
+2020-11-20 12:36:37 INFO  BasePageUtil:98 - NAV_SEARCH_SUBMIT  is clicked
+2020-11-20 12:36:44 INFO  BasePageUtil:142 - 48   first page
+2020-11-20 12:36:45 INFO  BaseTest:83 - 00:00:35.230
+2020-11-20 12:36:45 INFO  BaseHttpClientUtil:101 - Test userAll
+2020-11-20 12:36:45 INFO  BaseHttpClientUtil:36 - 1-----id-------->User 1------userName------>Password1------password------>testUserAll
+2020-11-20 12:36:45 INFO  BaseHttpClientUtil:36 - 2-----id-------->User 2------userName------>Password2------password------>testUserAll
+2020-11-20 12:36:45 INFO  BaseHttpClientUtil:36 - 3-----id-------->User 3------userName------>Password3------password------>testUserAll
+2020-11-20 12:36:45 INFO  BaseHttpClientUtil:36 - 4-----id-------->User 4------userName------>Password4------password------>testUserAll
+2020-11-20 12:36:45 INFO  BaseHttpClientUtil:36 - 5-----id-------->User 5------userName------>Password5------password------>testUserAll
+2020-11-20 12:36:45 INFO  BaseHttpClientUtil:36 - 6-----id-------->User 6------userName------>Password6------password------>testUserAll
+2020-11-20 12:36:45 INFO  BaseHttpClientUtil:36 - 7-----id-------->User 7------userName------>Password7------password------>testUserAll
+2020-11-20 12:36:45 INFO  BaseHttpClientUtil:36 - 8-----id-------->User 8------userName------>Password8------password------>testUserAll
+2020-11-20 12:36:45 INFO  BaseHttpClientUtil:36 - 9-----id-------->User 9------userName------>Password9------password------>testUserAll
+2020-11-20 12:36:45 INFO  BaseHttpClientUtil:36 - 10-----id-------->User 10------userName------>Password10------password------>testUserAll
+2020-11-20 12:36:45 INFO  BaseHttpClientUtil:101 - Test userPost
+2020-11-20 12:36:45 INFO  BaseHttpClientUtil:89 - 33------id------->melo test -------userName------->melo Test ------password------>responsePost
+2020-11-20 12:36:45 INFO  BaseHttpClientUtil:101 - Test userGet
+2020-11-20 12:36:45 INFO  BaseHttpClientUtil:54 - 9-------id------->User 9-------userName------->Password9------password------>testUserGet
+2020-11-20 12:36:45 INFO  BaseHttpClientUtil:101 - Test user Get Error
+2020-11-20 12:36:45 INFO  BaseHttpClientUtil:71 - ------title-------->Not Found-------status------->404     testUserGet
+2020-11-20 12:37:29 INFO  BasePageUtil:64 - is element present NAV_SEARCH_FIELD
+2020-11-20 12:37:36 INFO  BasePageUtil:83 - iphone  send key
+2020-11-20 12:37:39 INFO  BasePageUtil:64 - is element present NAV_SEARCH_SUBMIT
+2020-11-20 12:37:43 INFO  BasePageUtil:98 - NAV_SEARCH_SUBMIT  is clicked
+2020-11-20 12:37:50 INFO  BasePageUtil:142 - 48   first page
+2020-11-20 12:37:51 INFO  BaseTest:83 - 00:00:35.757
+2020-11-20 12:37:51 INFO  BaseHttpClientUtil:101 - Test userAll
+2020-11-20 12:37:51 INFO  BaseHttpClientUtil:36 - 1-----id-------->User 1------userName------>Password1------password------>testUserAll
+2020-11-20 12:37:51 INFO  BaseHttpClientUtil:36 - 2-----id-------->User 2------userName------>Password2------password------>testUserAll
+2020-11-20 12:37:51 INFO  BaseHttpClientUtil:36 - 3-----id-------->User 3------userName------>Password3------password------>testUserAll
+2020-11-20 12:37:51 INFO  BaseHttpClientUtil:36 - 4-----id-------->User 4------userName------>Password4------password------>testUserAll
+2020-11-20 12:37:51 INFO  BaseHttpClientUtil:36 - 5-----id-------->User 5------userName------>Password5------password------>testUserAll
+2020-11-20 12:37:51 INFO  BaseHttpClientUtil:36 - 6-----id-------->User 6------userName------>Password6------password------>testUserAll
+2020-11-20 12:37:51 INFO  BaseHttpClientUtil:36 - 7-----id-------->User 7------userName------>Password7------password------>testUserAll
+2020-11-20 12:37:51 INFO  BaseHttpClientUtil:36 - 8-----id-------->User 8------userName------>Password8------password------>testUserAll
+2020-11-20 12:37:51 INFO  BaseHttpClientUtil:36 - 9-----id-------->User 9------userName------>Password9------password------>testUserAll
+2020-11-20 12:37:51 INFO  BaseHttpClientUtil:36 - 10-----id-------->User 10------userName------>Password10------password------>testUserAll
+2020-11-20 12:37:51 INFO  BaseHttpClientUtil:101 - Test userPost
+2020-11-20 12:37:51 INFO  BaseHttpClientUtil:89 - 4------id------->melo test -------userName------->melo Test ------password------>responsePost
+2020-11-20 12:37:51 INFO  BaseHttpClientUtil:101 - Test userGet
+2020-11-20 12:37:51 INFO  BaseHttpClientUtil:54 - 9-------id------->User 9-------userName------->Password9------password------>testUserGet
+2020-11-20 12:37:52 INFO  BaseHttpClientUtil:101 - Test user Get Error
+2020-11-20 12:37:52 INFO  BaseHttpClientUtil:71 - ------title-------->Not Found-------status------->404     testUserGet
+2020-11-20 12:38:14 INFO  BasePageUtil:64 - is element present NAV_SEARCH_FIELD
+2020-11-20 12:38:21 INFO  BasePageUtil:83 - iphone  send key
+2020-11-20 12:38:24 INFO  BasePageUtil:64 - is element present NAV_SEARCH_SUBMIT
+2020-11-20 12:38:29 INFO  BasePageUtil:98 - NAV_SEARCH_SUBMIT  is clicked
+2020-11-20 12:38:36 INFO  BasePageUtil:142 - 48   first pageiphone
+2020-11-20 12:38:36 INFO  BaseTest:83 - 00:00:35.535
+2020-11-20 12:38:36 INFO  BaseHttpClientUtil:101 - Test userAll
+2020-11-20 12:38:36 INFO  BaseHttpClientUtil:36 - 1-----id-------->User 1------userName------>Password1------password------>testUserAll
+2020-11-20 12:38:36 INFO  BaseHttpClientUtil:36 - 2-----id-------->User 2------userName------>Password2------password------>testUserAll
+2020-11-20 12:38:36 INFO  BaseHttpClientUtil:36 - 3-----id-------->User 3------userName------>Password3------password------>testUserAll
+2020-11-20 12:38:36 INFO  BaseHttpClientUtil:36 - 4-----id-------->User 4------userName------>Password4------password------>testUserAll
+2020-11-20 12:38:36 INFO  BaseHttpClientUtil:36 - 5-----id-------->User 5------userName------>Password5------password------>testUserAll
+2020-11-20 12:38:36 INFO  BaseHttpClientUtil:36 - 6-----id-------->User 6------userName------>Password6------password------>testUserAll
+2020-11-20 12:38:36 INFO  BaseHttpClientUtil:36 - 7-----id-------->User 7------userName------>Password7------password------>testUserAll
+2020-11-20 12:38:36 INFO  BaseHttpClientUtil:36 - 8-----id-------->User 8------userName------>Password8------password------>testUserAll
+2020-11-20 12:38:36 INFO  BaseHttpClientUtil:36 - 9-----id-------->User 9------userName------>Password9------password------>testUserAll
+2020-11-20 12:38:36 INFO  BaseHttpClientUtil:36 - 10-----id-------->User 10------userName------>Password10------password------>testUserAll
+2020-11-20 12:38:37 INFO  BaseHttpClientUtil:101 - Test userPost
+2020-11-20 12:38:37 INFO  BaseHttpClientUtil:89 - 1------id------->melo test -------userName------->melo Test ------password------>responsePost
+2020-11-20 12:38:37 INFO  BaseHttpClientUtil:101 - Test userGet
+2020-11-20 12:38:37 INFO  BaseHttpClientUtil:54 - 9-------id------->User 9-------userName------->Password9------password------>testUserGet
+2020-11-20 12:38:37 INFO  BaseHttpClientUtil:101 - Test user Get Error
+2020-11-20 12:38:37 INFO  BaseHttpClientUtil:71 - ------title-------->Not Found-------status------->404     testUserGet
+2020-11-20 12:39:35 INFO  BasePageUtil:64 - is element present NAV_SEARCH_FIELD
+2020-11-20 12:39:42 INFO  BasePageUtil:83 - iphone  send key
+2020-11-20 12:39:45 INFO  BasePageUtil:64 - is element present NAV_SEARCH_SUBMIT
+2020-11-20 12:39:50 INFO  BasePageUtil:98 - NAV_SEARCH_SUBMIT  is clicked
+2020-11-20 12:42:22 INFO  BasePageUtil:142 - 48   first page
+2020-11-20 12:42:22 INFO  BaseTest:83 - 00:03:00.744
+2020-11-20 12:42:23 INFO  BaseHttpClientUtil:101 - Test userAll
+2020-11-20 12:42:23 INFO  BaseHttpClientUtil:36 - 1-----id-------->User 1------userName------>Password1------password------>testUserAll
+2020-11-20 12:42:23 INFO  BaseHttpClientUtil:36 - 2-----id-------->User 2------userName------>Password2------password------>testUserAll
+2020-11-20 12:42:23 INFO  BaseHttpClientUtil:36 - 3-----id-------->User 3------userName------>Password3------password------>testUserAll
+2020-11-20 12:42:23 INFO  BaseHttpClientUtil:36 - 4-----id-------->User 4------userName------>Password4------password------>testUserAll
+2020-11-20 12:42:23 INFO  BaseHttpClientUtil:36 - 5-----id-------->User 5------userName------>Password5------password------>testUserAll
+2020-11-20 12:42:23 INFO  BaseHttpClientUtil:36 - 6-----id-------->User 6------userName------>Password6------password------>testUserAll
+2020-11-20 12:42:23 INFO  BaseHttpClientUtil:36 - 7-----id-------->User 7------userName------>Password7------password------>testUserAll
+2020-11-20 12:42:23 INFO  BaseHttpClientUtil:36 - 8-----id-------->User 8------userName------>Password8------password------>testUserAll
+2020-11-20 12:42:23 INFO  BaseHttpClientUtil:36 - 9-----id-------->User 9------userName------>Password9------password------>testUserAll
+2020-11-20 12:42:23 INFO  BaseHttpClientUtil:36 - 10-----id-------->User 10------userName------>Password10------password------>testUserAll
+2020-11-20 12:42:23 INFO  BaseHttpClientUtil:101 - Test userPost
+2020-11-20 12:42:23 INFO  BaseHttpClientUtil:89 - 60------id------->melo test -------userName------->melo Test ------password------>responsePost
+2020-11-20 12:42:23 INFO  BaseHttpClientUtil:101 - Test userGet
+2020-11-20 12:42:23 INFO  BaseHttpClientUtil:54 - 9-------id------->User 9-------userName------->Password9------password------>testUserGet
+2020-11-20 12:43:01 INFO  BaseHttpClientUtil:101 - Test user Get Error
+2020-11-20 12:43:06 INFO  BaseHttpClientUtil:71 - ------title-------->Not Found-------status------->404     testUserGet
+2020-11-20 12:43:25 INFO  BasePageUtil:64 - is element present NAV_SEARCH_FIELD
+2020-11-20 12:43:32 INFO  BasePageUtil:83 - iPhone   send key
+2020-11-20 12:43:35 INFO  BasePageUtil:64 - is element present NAV_SEARCH_SUBMIT
+2020-11-20 12:43:40 INFO  BasePageUtil:98 - NAV_SEARCH_SUBMIT  is clicked
+2020-11-20 12:43:47 INFO  BasePageUtil:142 - 48   first page
+2020-11-20 12:43:47 INFO  BaseTest:83 - 00:00:34.917
+2020-11-20 12:43:48 INFO  BaseHttpClientUtil:101 - Test userAll
+2020-11-20 12:43:48 INFO  BaseHttpClientUtil:36 - 1-----id-------->User 1------userName------>Password1------password------>testUserAll
+2020-11-20 12:43:48 INFO  BaseHttpClientUtil:36 - 2-----id-------->User 2------userName------>Password2------password------>testUserAll
+2020-11-20 12:43:48 INFO  BaseHttpClientUtil:36 - 3-----id-------->User 3------userName------>Password3------password------>testUserAll
+2020-11-20 12:43:48 INFO  BaseHttpClientUtil:36 - 4-----id-------->User 4------userName------>Password4------password------>testUserAll
+2020-11-20 12:43:48 INFO  BaseHttpClientUtil:36 - 5-----id-------->User 5------userName------>Password5------password------>testUserAll
+2020-11-20 12:43:48 INFO  BaseHttpClientUtil:36 - 6-----id-------->User 6------userName------>Password6------password------>testUserAll
+2020-11-20 12:43:48 INFO  BaseHttpClientUtil:36 - 7-----id-------->User 7------userName------>Password7------password------>testUserAll
+2020-11-20 12:43:48 INFO  BaseHttpClientUtil:36 - 8-----id-------->User 8------userName------>Password8------password------>testUserAll
+2020-11-20 12:43:48 INFO  BaseHttpClientUtil:36 - 9-----id-------->User 9------userName------>Password9------password------>testUserAll
+2020-11-20 12:43:48 INFO  BaseHttpClientUtil:36 - 10-----id-------->User 10------userName------>Password10------password------>testUserAll
+2020-11-20 12:43:48 INFO  BaseHttpClientUtil:101 - Test userPost
+2020-11-20 12:43:48 INFO  BaseHttpClientUtil:89 - 18------id------->melo test -------userName------->melo Test ------password------>responsePost
+2020-11-20 12:43:48 INFO  BaseHttpClientUtil:101 - Test userGet
+2020-11-20 12:43:48 INFO  BaseHttpClientUtil:54 - 9-------id------->User 9-------userName------->Password9------password------>testUserGet
+2020-11-20 12:43:48 INFO  BaseHttpClientUtil:101 - Test user Get Error
+2020-11-20 12:43:48 INFO  BaseHttpClientUtil:71 - ------title-------->Not Found-------status------->404     testUserGet
+2020-11-20 12:44:42 INFO  BasePageUtil:64 - is element present NAV_SEARCH_FIELD
+2020-11-20 12:44:49 INFO  BasePageUtil:83 - iPhone   send key
+2020-11-20 12:44:52 INFO  BasePageUtil:64 - is element present NAV_SEARCH_SUBMIT
+2020-11-20 12:44:57 INFO  BasePageUtil:98 - NAV_SEARCH_SUBMIT  is clicked
+2020-11-20 12:45:04 INFO  BasePageUtil:142 - 48   first page
+2020-11-20 12:45:05 INFO  BaseTest:83 - 00:00:34.849
+2020-11-20 12:45:05 INFO  BaseHttpClientUtil:101 - Test userAll
+2020-11-20 12:45:05 INFO  BaseHttpClientUtil:36 - 1-----id-------->User 1------userName------>Password1------password------>testUserAll
+2020-11-20 12:45:05 INFO  BaseHttpClientUtil:36 - 2-----id-------->User 2------userName------>Password2------password------>testUserAll
+2020-11-20 12:45:05 INFO  BaseHttpClientUtil:36 - 3-----id-------->User 3------userName------>Password3------password------>testUserAll
+2020-11-20 12:45:05 INFO  BaseHttpClientUtil:36 - 4-----id-------->User 4------userName------>Password4------password------>testUserAll
+2020-11-20 12:45:05 INFO  BaseHttpClientUtil:36 - 5-----id-------->User 5------userName------>Password5------password------>testUserAll
+2020-11-20 12:45:05 INFO  BaseHttpClientUtil:36 - 6-----id-------->User 6------userName------>Password6------password------>testUserAll
+2020-11-20 12:45:05 INFO  BaseHttpClientUtil:36 - 7-----id-------->User 7------userName------>Password7------password------>testUserAll
+2020-11-20 12:45:05 INFO  BaseHttpClientUtil:36 - 8-----id-------->User 8------userName------>Password8------password------>testUserAll
+2020-11-20 12:45:05 INFO  BaseHttpClientUtil:36 - 9-----id-------->User 9------userName------>Password9------password------>testUserAll
+2020-11-20 12:45:05 INFO  BaseHttpClientUtil:36 - 10-----id-------->User 10------userName------>Password10------password------>testUserAll
+2020-11-20 12:45:05 INFO  BaseHttpClientUtil:101 - Test userPost
+2020-11-20 12:45:05 INFO  BaseHttpClientUtil:89 - 8------id------->melo test -------userName------->melo Test ------password------>responsePost
+2020-11-20 12:45:05 INFO  BaseHttpClientUtil:101 - Test userGet
+2020-11-20 12:45:05 INFO  BaseHttpClientUtil:54 - 9-------id------->User 9-------userName------->Password9------password------>testUserGet
+2020-11-20 12:45:05 INFO  BaseHttpClientUtil:101 - Test user Get Error
+2020-11-20 12:45:05 INFO  BaseHttpClientUtil:71 - ------title-------->Not Found-------status------->404     testUserGet
+2020-11-20 12:45:05 INFO  BaseHttpClientUtil:101 - Test userPost
+2020-11-20 12:45:05 INFO  BaseHttpClientUtil:89 - 89------id------->-------userName------->melo Test ------password------>responsePost
