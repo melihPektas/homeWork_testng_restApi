@@ -104,10 +104,20 @@ public class BasePageUtil {
         }
     }
 
+    protected void await() {
+        try {
+            JavascriptExecutor executor = (JavascriptExecutor) driver;
+            executor.executeScript("return document.documentElement.outerHTML");
+        } catch (Exception e) {
+            log.error(e.getMessage());
+        }
+    }
+
 
     protected WebElement getElementBy(By by) {
         WebElement element = null;
         try {
+            await();
             element = driver.findElement(by);
         } catch (Exception ex) {
             element = null;
